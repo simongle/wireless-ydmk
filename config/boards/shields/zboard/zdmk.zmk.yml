@@ -1,0 +1,12 @@
+file_format: "1"
+id: zdmk
+name: ZDMK
+type: shield
+url: https://github.com/oldmanz/zmk-zdmk
+requires: [pro_micro]
+exposes: []
+features:
+  - keys
+siblings:
+  - zdmk_left
+  - zdmk_right
